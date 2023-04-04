@@ -15,7 +15,7 @@ font-family: 'Bookk Myungjo';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BookkMyungjo/BookkMyungjo.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/BookkMyungjo/BookkMyungjo.css" type="text/css"/>
 ```
 
 &nbsp;
